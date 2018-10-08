@@ -1,8 +1,6 @@
 
 # <font color=#b22222>Python爬虫简教---爬取搜狐新闻</font>
 
-<font color=#a52a2a>**background:** 小姐姐准备开课啦,预热预热:)</font>
-
 ## <font color=black>示例 1:</font>
 
 该例中我们将要爬取搜狐新闻的 **新闻标题**, **发布时间**, **新闻链接**, 并保存为excel文件.  
